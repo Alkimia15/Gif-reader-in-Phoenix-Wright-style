@@ -1,4 +1,4 @@
-# Gif-reader-in-Phoenix-Wright-style
+# Gif-reader-in-Phoenix-Wright-style-beta-01
 
 To make the program work you need to:
   1. write the frase you want wirght to say
